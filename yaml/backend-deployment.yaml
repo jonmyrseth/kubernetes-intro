@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: gcr.io/jmykubtest/backend:cv-backend-1
+        image: gcr.io/jmykubtest/backend:cv-backend-3
         ports:
         - containerPort: 5000
